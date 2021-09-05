@@ -35,15 +35,12 @@
 
 
 ## Project Status
-Project is: _in progress_ 
+Project is: _completed_ 
 
 ## Room for Improvement
 Room for improvement:
-- Improvement to be done 1
-- Improvement to be done 2
-
-To do:
-- Start the project
+- Met the requirements but could definitely add more
+- Add interactivity
 
 
 ## Acknowledgements
